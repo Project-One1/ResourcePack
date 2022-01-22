@@ -1,0 +1,16 @@
+{
+  "rpg": {
+    "sounds": [
+      {
+        "name": "noraneko/loop"
+      }
+    ]
+  },
+  "samba": {
+    "sounds": [
+      {
+        "name": "noraneko/beach"
+      }
+    ]
+  }
+}
